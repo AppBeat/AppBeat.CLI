@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppBeat.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "page-speed NorthAmerica https://appbeat.io"
+    }
+  }
+}
