@@ -16,13 +16,13 @@ Once you have secret key you will have to save it to text file called **secret.k
 You can run application on Windows, Linux and Mac, but you have to install .NET Core runtime first. You can get it for free from https://www.microsoft.com/net/core
 
 Usage example:
-* run website speed test for https://appbeat.io in North America
+* run website speed test for https://appbeat.io from North America
    * `dotnet AppBeat.CLI.dll page-speed NorthAmerica https://appbeat.io`
 
-* run website speed test for https://appbeat.io in Europe
+* run website speed test for https://appbeat.io from Europe
   * `dotnet AppBeat.CLI.dll page-speed Europe https://appbeat.io`
 
-* run website speed test for https://appbeat.io in Asia
+* run website speed test for https://appbeat.io from Asia
   * `dotnet AppBeat.CLI.dll page-speed Asia https://appbeat.io`
 
 Please tell us which new test locations should we add in future and which new features would you like to see.
